@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sat-Etest checker
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Play an alert sound on the first loading of the page if an element with the namespace "Bonus test 04" is present.
 // @author       Jib
 // @match        https://moodle.rwth-aachen.de/course/view.php?id=35650
