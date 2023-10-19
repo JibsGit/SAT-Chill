@@ -6,7 +6,7 @@
 // @author       Jib
 // @match        https://moodle.rwth-aachen.de/course/view.php?id=35650
 // @grant        none
-// @updateURL	 https://github.com/JibsGit/SAT-Chill/blob/main/NewSAT_Test.user.js
+// @updateURL	 https://github.com/JibsGit/SAT-Chill/raw/main/NewSAT_Test.user.js
 // ==/UserScript==
 
 (function() {
