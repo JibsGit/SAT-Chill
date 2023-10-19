@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Element Loaded Alert
+// @name         Sat-Etest checker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Play an alert sound on the first loading of the page if an element with the namespace "Bonus test 04" is present.
@@ -31,6 +31,6 @@
 
     // Trigger the check when the page is fully loaded
     window.onload = function() {
-        setTimeout(checkForElement, 3000); // 5000 milliseconds (5 seconds)})();
+        setTimeout(checkForElement, 3000); // 3000 milliseconds (3 seconds)})();
     };
 })();
